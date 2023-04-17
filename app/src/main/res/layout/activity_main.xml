@@ -32,7 +32,7 @@
         android:background="@drawable/edittextbackground"
         android:drawableLeft="@drawable/account"
         android:ems="10"
-        android:hint="  User Name"
+        android:hint="User Name"
         android:inputType="textPersonName"
         android:padding="10dp"
         android:textColorHint="@color/hintColor"
